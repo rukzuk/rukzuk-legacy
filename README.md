@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/rukzuk/rukzuk.svg?style=svg)](https://circleci.com/gh/rukzuk/rukzuk)
+[![CircleCI](https://circleci.com/gh/rukzuk/rukzuk-legacy.svg?style=svg)](https://circleci.com/gh/rukzuk/rukzuk-legacy)
 
 # What is rukzuk?
 
