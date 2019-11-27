@@ -123,7 +123,7 @@ jobs:
       - attach_workspace:
           at: .
       - run: go get github.com/aktau/github-release
-      - run: github-release upload --user rukzuk --repo rukzuk --tag ${CIRCLE_TAG} --name ${CIRCLE_TAG}.tgz --file artifacts/${CIRCLE_TAG}.tgz
+      - run: github-release upload --user rukzuk --repo rukzuk-legacy --tag ${CIRCLE_TAG} --name ${CIRCLE_TAG}.tgz --file artifacts/${CIRCLE_TAG}.tgz
 
 workflows:
   version: 2
